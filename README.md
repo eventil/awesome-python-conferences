@@ -1,1 +1,1 @@
-# awesome-python-conferences
+# Awesome Python Conferences
